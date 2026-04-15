@@ -1,0 +1,12 @@
+{
+  "export_job_id": "a1df555f-ec7b-4e53-97b2-cd918ce13a8a",
+  "id_short": 885553,
+  "published_at": "2026-04-15T19:48:49Z",
+  "repo_name": "all-restaurants-in-hollywood-florida-us-sample-885553",
+  "sample_asset_name": "beamstation_885553_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/885553/beamstation_885553_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_records": 60,
+  "sample_sha256": "7f7c551781c43f923df79dd69b2ff7f346a099a9b5fefa3416d6fe609d67f71a",
+  "sample_size_bytes": 219864,
+  "total_records": 605
+}
