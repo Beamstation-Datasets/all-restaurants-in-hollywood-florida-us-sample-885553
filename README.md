@@ -1,6 +1,6 @@
 # All Restaurants in Hollywood, Florida, US
 
-> Free BeamStation sample export with 35 rows and masked direct-contact fields.
+> Free BeamStation sample export with 66 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `885553` |
 | Location | Hollywood |
 | Category | Restaurants |
-| Full dataset size | 350 records |
-| Free sample size | 35 records (10.0%) |
-| Last export | 2026-04-23T11:18:07.075656+00:00 |
+| Full dataset size | 663 records |
+| Free sample size | 66 records (9.95%) |
+| Last export | 2026-04-30T11:28:01.732763+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hollywood-florida-us-sample-885553/releases/download/sample-latest/beamstation_885553_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
